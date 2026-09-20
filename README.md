@@ -15,7 +15,7 @@ Built as a practical SOC/Blue Team portfolio project to simulate real-world IOC 
 
 User input (IP) → Python script → queries AbuseIPDB + VirusTotal APIs in parallel → aggregates results → prints verdict to terminal.
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+<img src="screenshots/architecture-diagram.png" alt="Architecture Diagram" width="500">
 
 ## Features
 
